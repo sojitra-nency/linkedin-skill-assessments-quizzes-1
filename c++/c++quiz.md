@@ -1152,7 +1152,7 @@ void std::mutex::lock(){
 - [ ] float f=*(float)ptr;
 - [ ] float f=(float *)ptr;
 - [ ] float f=(float)*ptr;
-- [ ] float f=*(float *)ptr;		
+- [x] float f=*(float *)ptr;		
 
 ### Q.68 What is the .* operator and what does it do?
 
